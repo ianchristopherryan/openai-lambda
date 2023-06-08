@@ -1,0 +1,3 @@
+"functionName","inputType","outputType","prompt"
+"GetTriviaQuestionsCSV","Number","CSV","""Write me a {input} multiple choice trivia question in CSV format with the column headings """"'question','optionA','optionB','optionC','optionD','answer'"""". Include the column headings as the first line."""
+"GetTriviaQuestion","None","JSON","""Generate a single trivia question in JSON format matching {""""question"""":""""the question"""", """"answer"""": """"the answer""""}"""
